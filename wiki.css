@@ -24,8 +24,9 @@ header{
 }
 
 .search{
+  position: absolute;
   display: block;
-  margin-right: 10px;
+  left: 80%;
   width: auto;
   margin-top: 10px;
 }
